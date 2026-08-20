@@ -43,6 +43,7 @@ Traditional in-person food ordering is slow and doesn't scale well during peak h
 ## Project Structure
 
 lib/
+
 ├── main.dart # App entry point, Firebase init, theme configuration
 ├── column.dart # Main layout, drawer + bottom navigation
 ├── login.dart # Authentication page
