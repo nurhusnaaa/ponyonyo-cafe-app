@@ -84,7 +84,13 @@ Orders are stored in a Firestore collection named `orders`, with each document c
 
 ## Demo
 
-*(screenshots go here — see note below)*
+![Login Page](Login%20Page.png)
+![Home Page](Home%20Page.png)
+![Menu Page](Menu%20Page.png)
+![Order Form](Order%20Form.png)
+![Admin Order Page](Admin%20Order%20Page.png)
+![Guest Profile](Guest%20Profile.png)
+![Admin Profile](Admin%20Profile.png)
 
 ## What I'd Improve
 
